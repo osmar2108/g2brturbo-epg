@@ -1,0 +1,3498 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/difusora.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redebrasil.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Boomerang HD">
+    <display-name lang="pt">Boomerang HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony">
+    <display-name lang="pt">Canal Sony</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Canal Sony HD">
+    <display-name lang="pt">Canal Sony HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Civilization HD">
+    <display-name lang="pt">Discovery Civilization HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD">
+    <display-name lang="pt">Discovery Home &amp; Health HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="pt">Discovery Science HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="pt">Discovery Theater HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery world">
+    <display-name lang="pt">Discovery world</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="pt">Discovery World HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20180725003000 -0300" stop="20180725010000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso experiente que, como ele, está prestes a se tornar pai. Ele vai ter que encontrar uma maneira de pegá-lo sem colocar a futura família em risco. Será que terá sucesso?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725010000 -0300" stop="20180725020000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Joni e Millie são intimadas: ou deixam de acumular ou perderão seus entes queridos para sempre. Será que elas vão se recuperar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725020000 -0300" stop="20180725023000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os agentes perseguem um suspeito pelas ruas da Carolina do Sul. Enquanto isso, se escutam disparos no Texas e no Arizona, os polícias devem enfrentar uma péssima combinação: drogas e armas(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725023000 -0300" stop="20180725030000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">As forças policiais ajudam vítimas de um acidente automobilístico mortal no Arizona. Além disso, lidam com uma resistência a prisão na Indiana e participam de uma apreensão de drogas na Carolina do Sul(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725030000 -0300" stop="20180725032200 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Funcionários da alfândega seguem os passos de um fugitivo até a fronteira do Estado de Washington. Conseguirão capturá-lo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725032200 -0300" stop="20180725034500 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Graças aos conhecimentos em linguagem corporal, os oficiais do aeroporto JFK fazem uma grande descoberta. O que esconde este passageiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725034500 -0300" stop="20180725043000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <desc lang="pt">Uma mulher leva um tiro no peito, Will e Dimitri tentam apreender os atacantes de um homem que pediu a ajuda do grupo de resposta rápida e, Rodd e Bethany fazem uma busca aéreo por um suspeito escondido no lixo(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Dan Flynn</actor>
+      <actor>Arkady Hennessey</actor>
+      <actor>Nick Manning</actor>
+      <actor>Titus Tero</actor>
+      <actor>Holly Monteleone</actor>
+      <actor>Ted Andressen</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725043000 -0300" stop="20180725051500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Joni e Millie são intimadas: ou deixam de acumular ou perderão seus entes queridos para sempre. Será que elas vão se recuperar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725051500 -0300" stop="20180725053700 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso experiente que, como ele, está prestes a se tornar pai. Ele vai ter que encontrar uma maneira de pegá-lo sem colocar a futura família em risco. Será que terá sucesso?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725053700 -0300" stop="20180725060000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Um criminoso acusado de sequestro no Arizona, agora semeia o caos em Los Angeles. Akil e sua equipe terão que pecorrer todos os cantos da cidade para encontrá-lo antes que seja tarde demais(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725060000 -0300" stop="20180725064500 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Liz Gale cresceu em uma família de Cientologistas, acreditando que a Cientologia era o caminho para ter una família perfeita(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725064500 -0300" stop="20180725073000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">É hora de construir alianças para os participantes. Algumas podem ser vitais para superar os obstáculos dentro da prisão, enquanto que outros podem colocá-los em uma situação ainda mais perigosa(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tami Ferraiuolo</actor>
+      <actor>Barbra Roylance Williams</actor>
+      <actor>Jeffrey John Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725073000 -0300" stop="20180725075200 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Funcionários da alfândega seguem os passos de um fugitivo até a fronteira do Estado de Washington. Conseguirão capturá-lo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725075200 -0300" stop="20180725081500 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Graças aos conhecimentos em linguagem corporal, os oficiais do aeroporto JFK fazem uma grande descoberta. O que esconde este passageiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725081500 -0300" stop="20180725090000 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Liz Gale cresceu em uma família de Cientologistas, acreditando que a Cientologia era o caminho para ter una família perfeita(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725090000 -0300" stop="20180725100000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <desc lang="pt">Uma mulher leva um tiro no peito, Will e Dimitri tentam apreender os atacantes de um homem que pediu a ajuda do grupo de resposta rápida e, Rodd e Bethany fazem uma busca aéreo por um suspeito escondido no lixo(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Dan Flynn</actor>
+      <actor>Arkady Hennessey</actor>
+      <actor>Nick Manning</actor>
+      <actor>Titus Tero</actor>
+      <actor>Holly Monteleone</actor>
+      <actor>Ted Andressen</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725100000 -0300" stop="20180725110000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">É hora de construir alianças para os participantes. Algumas podem ser vitais para superar os obstáculos dentro da prisão, enquanto que outros podem colocá-los em uma situação ainda mais perigosa(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tami Ferraiuolo</actor>
+      <actor>Barbra Roylance Williams</actor>
+      <actor>Jeffrey John Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725110000 -0300" stop="20180725113000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Na Carolina do Sul, um suspeito rouba uma viatura policial. No Arizona, alguém faz uma ligação desesperada por conta de uma overdose, enquanto em Maryland, dois veículos colidem de frente com resultados incertos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725113000 -0300" stop="20180725120000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">As forças policiais detêm um suspeito por contrabando de cocaína no Texas. Enquanto isso, em Connecticut, uma casa arde em chamas e os agentes vão ao resgate(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725120000 -0300" stop="20180725130000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Joni e Millie são intimadas: ou deixam de acumular ou perderão seus entes queridos para sempre. Será que elas vão se recuperar?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725130000 -0300" stop="20180725133000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Funcionários da alfândega seguem os passos de um fugitivo até a fronteira do Estado de Washington. Conseguirão capturá-lo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725133000 -0300" stop="20180725140000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Graças aos conhecimentos em linguagem corporal, os oficiais do aeroporto JFK fazem uma grande descoberta. O que esconde este passageiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725140000 -0300" stop="20180725160000 -0300" channel="A&amp;E">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <credits>
+      <director>Jonathan Mostow</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Nick Stahl</actor>
+      <actor>Claire Danes</actor>
+      <actor>David Andrews</actor>
+      <actor>Kristanna Loken</actor>
+      <actor>Mark Famiglietti</actor>
+      <actor>Earl Boen</actor>
+      <actor>Moira Harris</actor>
+      <actor>Chopper Bernett</actor>
+      <actor>Christopher Lawford</actor>
+      <actor>Susan Merson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725160000 -0300" stop="20180725163000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Na Carolina do Sul, um suspeito rouba uma viatura policial. No Arizona, alguém faz uma ligação desesperada por conta de uma overdose, enquanto em Maryland, dois veículos colidem de frente com resultados incertos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725163000 -0300" stop="20180725170000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">As forças policiais detêm um suspeito por contrabando de cocaína no Texas. Enquanto isso, em Connecticut, uma casa arde em chamas e os agentes vão ao resgate(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725170000 -0300" stop="20180725173000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <desc lang="pt">O capitão de um barco sai para navegar sem antes avisar aos agentes da fronteira: problemas no horizonte! Um americano chega com maços de dinheiro à fronteira, mas de onde será que provém esse dinheiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725173000 -0300" stop="20180725180000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <desc lang="pt">Há algo que um apostador canadense não contou na fronteira, mas os oficiais começam a suspeitar. Dizem que o amor não conhece fronteiras, mas certamente precisa de um visto de residência(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725180000 -0300" stop="20180725190000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Tori, uma adolescente agressiva de 14 anos que é também uma ladra e ‘valentona’, encontra um policial dedicado na Geórgia que tenta ajudá-la a abrir sua mente para esquecer seu passado trágico(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725190000 -0300" stop="20180725193000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os vizinhos em Maryland solicitam a ajuda policial diante da presença de um indivíduo armado. Enquanto que no Arizona, acontece uma perseguição em alta velocidade e, no Texas, os oficiais prendem um grupo de imigrantes ilegais(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725193000 -0300" stop="20180725205000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia 24 Horas</title>
+    <desc lang="pt">Durante abordagem a um ônibus, a polícia encontrou uma arma com um indivíduo(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725205000 -0300" stop="20180725214000 -0300" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <desc lang="pt">A equipe procura uma adolescente desaparecida que se teme tenha sido recrutada por uma organização terrorista(n)</desc>
+    <credits>
+      <director>Eric A. Pot</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Douglas Weston</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725214000 -0300" stop="20180725223000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <desc lang="pt">Após uma operação clandestina para desmantelar a rede de corrupção do prefeito Hamilton, Pride deve passar 6 semanas em avaliação e sua equipe será monitorada de perto pela supervisora Paula Boyd(n)</desc>
+    <credits>
+      <director>James Hayman</director>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Kiley Casciano</actor>
+      <actor>Matt Biedel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180725223000 -0300" stop="20180726003000 -0300" channel="A&amp;E">
+    <title lang="pt">Justiça Urbana</title>
+    <desc lang="pt">Simon Ballister é um ex-soldado das forças especiais que tem o filho policial assassinado em uma área pobre e violenta da cidade. Em busca de vingança, o militar aposentado se muda para a vizinhança onde o crime ocorreu(n)</desc>
+    <credits>
+      <director>Don E. FauntLeRoy</director>
+      <actor>Steven Seagal</actor>
+      <actor>Eddie Griffin</actor>
+      <actor>Kirk B.R. Woller</actor>
+      <actor>Liezl Carstens</actor>
+      <actor>Carmen Serano</actor>
+      <actor>Cory Hart</actor>
+      <actor>Mary Evans</actor>
+      <actor>Al Staggs</actor>
+      <actor>Jermaine Washington</actor>
+      <actor>Danny Trejo</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726003000 -0300" stop="20180726010000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <desc lang="pt">O capitão de um barco sai para navegar sem antes avisar aos agentes da fronteira: problemas no horizonte! Um americano chega com maços de dinheiro à fronteira, mas de onde será que provém esse dinheiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726010000 -0300" stop="20180726020000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Tori, uma adolescente agressiva de 14 anos que é também uma ladra e ‘valentona’, encontra um policial dedicado na Geórgia que tenta ajudá-la a abrir sua mente para esquecer seu passado trágico(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726020000 -0300" stop="20180726030000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <desc lang="pt">Após uma operação clandestina para desmantelar a rede de corrupção do prefeito Hamilton, Pride deve passar 6 semanas em avaliação e sua equipe será monitorada de perto pela supervisora Paula Boyd(n)</desc>
+    <credits>
+      <director>James Hayman</director>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Kiley Casciano</actor>
+      <actor>Matt Biedel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726030000 -0300" stop="20180726034500 -0300" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <desc lang="pt">A equipe procura uma adolescente desaparecida que se teme tenha sido recrutada por uma organização terrorista(n)</desc>
+    <credits>
+      <director>Eric A. Pot</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Douglas Weston</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726034500 -0300" stop="20180726043000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">É hora de construir alianças para os participantes. Algumas podem ser vitais para superar os obstáculos dentro da prisão, enquanto que outros podem colocá-los em uma situação ainda mais perigosa(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tami Ferraiuolo</actor>
+      <actor>Barbra Roylance Williams</actor>
+      <actor>Jeffrey John Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726043000 -0300" stop="20180726051500 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Tori, uma adolescente agressiva de 14 anos que é também uma ladra e ‘valentona’, encontra um policial dedicado na Geórgia que tenta ajudá-la a abrir sua mente para esquecer seu passado trágico(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726051500 -0300" stop="20180726060000 -0300" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <desc lang="pt">A equipe procura uma adolescente desaparecida que se teme tenha sido recrutada por uma organização terrorista(n)</desc>
+    <credits>
+      <director>Eric A. Pot</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Douglas Weston</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726060000 -0300" stop="20180726064500 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Leah encontra uma antiga amiga da infância, Chantal Dodson, e sua mãe, Ramina, que após 42 anos, está pronta para abandonar a Cientologia(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726064500 -0300" stop="20180726073000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">A temperança dos participantes será testada quando seus companheiros de cela ficarem ainda mais alterados após uma inundação no anexo do Sul da prisão(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tami Ferraiuolo</actor>
+      <actor>Barbra Roylance Williams</actor>
+      <actor>Jeffrey John Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726073000 -0300" stop="20180726081500 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
+    <credits>
+      <director>John Choi</director>
+      <director>Nicolina Lanni</director>
+      <actor>Sarah Burkett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726081500 -0300" stop="20180726090000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <desc lang="pt">Uma informante imprevisível que admira Pride o sequestra para que este a ajude a encontrar um serial killer que está ameaçando a vida de jovens mulheres no Golfo do México(n)</desc>
+    <credits>
+      <director>Hart Bochner</director>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Kiley Casciano</actor>
+      <actor>Matt Biedel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726090000 -0300" stop="20180726100000 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Leah encontra uma antiga amiga da infância, Chantal Dodson, e sua mãe, Ramina, que após 42 anos, está pronta para abandonar a Cientologia(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726100000 -0300" stop="20180726110000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">A temperança dos participantes será testada quando seus companheiros de cela ficarem ainda mais alterados após uma inundação no anexo do Sul da prisão(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tami Ferraiuolo</actor>
+      <actor>Barbra Roylance Williams</actor>
+      <actor>Jeffrey John Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726110000 -0300" stop="20180726120000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Na típica cidade americana de Edgewood, no Kentucky, Stephen e Adele Craven se encaixam com perfeição. Ele é um piloto de linha aérea comercial, e ela é uma dona-de-casa com dois filhos adoráveis(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Kikey Castillo</actor>
+      <actor>George Hellas</actor>
+      <actor>Beau Marie</actor>
+      <actor>Robby Perez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726120000 -0300" stop="20180726130000 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Leah encontra uma antiga amiga da infância, Chantal Dodson, e sua mãe, Ramina, que após 42 anos, está pronta para abandonar a Cientologia(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726130000 -0300" stop="20180726140000 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
+    <credits>
+      <director>John Choi</director>
+      <director>Nicolina Lanni</director>
+      <actor>Sarah Burkett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726140000 -0300" stop="20180726160000 -0300" channel="A&amp;E">
+    <title lang="pt">Justiça Urbana</title>
+    <desc lang="pt">Simon Ballister é um ex-soldado das forças especiais que tem o filho policial assassinado em uma área pobre e violenta da cidade. Em busca de vingança, o militar aposentado se muda para a vizinhança onde o crime ocorreu(n)</desc>
+    <credits>
+      <director>Don E. FauntLeRoy</director>
+      <actor>Steven Seagal</actor>
+      <actor>Eddie Griffin</actor>
+      <actor>Kirk B.R. Woller</actor>
+      <actor>Liezl Carstens</actor>
+      <actor>Carmen Serano</actor>
+      <actor>Cory Hart</actor>
+      <actor>Mary Evans</actor>
+      <actor>Al Staggs</actor>
+      <actor>Jermaine Washington</actor>
+      <actor>Danny Trejo</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726160000 -0300" stop="20180726170000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <desc lang="pt">Uma informante imprevisível que admira Pride o sequestra para que este a ajude a encontrar um serial killer que está ameaçando a vida de jovens mulheres no Golfo do México(n)</desc>
+    <credits>
+      <director>Hart Bochner</director>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Kiley Casciano</actor>
+      <actor>Matt Biedel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726170000 -0300" stop="20180726180000 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
+    <credits>
+      <director>John Choi</director>
+      <director>Nicolina Lanni</director>
+      <actor>Sarah Burkett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726180000 -0300" stop="20180726190000 -0300" channel="A&amp;E">
+    <title lang="pt">Sem Volta</title>
+    <desc lang="pt">Todos querem se livrar de Yordi, mas ele é o único que sabe o caminho para o resgate e usa isso como sua única moeda para sobreviver(n)</desc>
+    <credits>
+      <director>Edgard Miranda</director>
+      <actor>Roger Gobeth</actor>
+      <actor>Angelo Paes Leme</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726190000 -0300" stop="20180726193000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Um estranho choque entre cavalos no Kentucky mantém os agentes ocupados. Na Carolina do Sul, uma perseguição após uma tentativa de roubo em uma casa. E na Indiana, um suspeito tenta escapar a bordo de uma motocicleta(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726193000 -0300" stop="20180726205000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia 24 Horas</title>
+    <desc lang="pt">Operação com o Grupamento Especial Tático de Motos. Um carro foi detido com um revólver calibre 38, na outra abordagem, foram pegos motociclistas sem capacete e sem habilitação(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726205000 -0300" stop="20180726214000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Sam deve ajudar Hetty a encontrar o espião infiltrado na unidade. Enquanto isso, o resto da equipe deve procurar em toda a cidade as pistas para esclarecer a misteriosa morte de um funcionário do alto escalão da marinha(n)</desc>
+    <credits>
+      <director>Benny Boom</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726214000 -0300" stop="20180726223000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Um procurador pede ajuda a Bull para condenar um renomado narcotraficante que assassinou um policial, mas tem evitando a prisão há anos. Bull deverá provar que o acusado tem fingido sofrer de esquizofrenia(n)</desc>
+    <credits>
+      <director>Alex Pillai</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180726223000 -0300" stop="20180727003000 -0300" channel="A&amp;E">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido(n)</desc>
+    <credits>
+      <director>Tony Scott</director>
+      <actor>Denzel Washington</actor>
+      <actor>John Travolta</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Ramon Rodriguez</actor>
+      <actor>Victor Gojcaj</actor>
+      <actor>John Turturro</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Katherine Sigismund</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727003000 -0300" stop="20180727013000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Sam deve ajudar Hetty a encontrar o espião infiltrado na unidade. Enquanto isso, o resto da equipe deve procurar em toda a cidade as pistas para esclarecer a misteriosa morte de um funcionário do alto escalão da marinha(n)</desc>
+    <credits>
+      <director>Benny Boom</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727013000 -0300" stop="20180727020000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Um estranho choque entre cavalos no Kentucky mantém os agentes ocupados. Na Carolina do Sul, uma perseguição após uma tentativa de roubo em uma casa. E na Indiana, um suspeito tenta escapar a bordo de uma motocicleta(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727020000 -0300" stop="20180727030000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Na típica cidade americana de Edgewood, no Kentucky, Stephen e Adele Craven se encaixam com perfeição. Ele é um piloto de linha aérea comercial, e ela é uma dona-de-casa com dois filhos adoráveis(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Kikey Castillo</actor>
+      <actor>George Hellas</actor>
+      <actor>Beau Marie</actor>
+      <actor>Robby Perez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727030000 -0300" stop="20180727034500 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Um procurador pede ajuda a Bull para condenar um renomado narcotraficante que assassinou um policial, mas tem evitando a prisão há anos. Bull deverá provar que o acusado tem fingido sofrer de esquizofrenia(n)</desc>
+    <credits>
+      <director>Alex Pillai</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727034500 -0300" stop="20180727043000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Sam deve ajudar Hetty a encontrar o espião infiltrado na unidade. Enquanto isso, o resto da equipe deve procurar em toda a cidade as pistas para esclarecer a misteriosa morte de um funcionário do alto escalão da marinha(n)</desc>
+    <credits>
+      <director>Benny Boom</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727043000 -0300" stop="20180727051500 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
+    <credits>
+      <director>John Choi</director>
+      <director>Nicolina Lanni</director>
+      <actor>Sarah Burkett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727051500 -0300" stop="20180727060000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Na típica cidade americana de Edgewood, no Kentucky, Stephen e Adele Craven se encaixam com perfeição. Ele é um piloto de linha aérea comercial, e ela é uma dona-de-casa com dois filhos adoráveis(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Kikey Castillo</actor>
+      <actor>George Hellas</actor>
+      <actor>Beau Marie</actor>
+      <actor>Robby Perez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727060000 -0300" stop="20180727064500 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Em uma mesa redonda, Leah comanda um debate sobre a "Ponte para a liberdade absoluta", e o motivo pelo qual os cientologistas gastam fortunas em explorar este sistema de níveis dentro da organização(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727064500 -0300" stop="20180727073000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">Os participantes masculinos não confiam em ninguém: todos suspeitam de todos. Por outro lado, as mulheres têm dúvidas em continuar, e uma delas pode renunciar ao experimento(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tami Ferraiuolo</actor>
+      <actor>Barbra Roylance Williams</actor>
+      <actor>Jeffrey John Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727073000 -0300" stop="20180727081500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <desc lang="pt">Um homem foi assassinado em Atlanta. A investigação revela duas coisas: que era um marido bastante submisso e que sua esposa tinha uma obscura e secreta adição(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Ben Weddington</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727081500 -0300" stop="20180727090000 -0300" channel="A&amp;E">
+    <title lang="pt">Jovens Assassinos</title>
+    <desc lang="pt">Um jovem mata seus pais adotivos em um acesso de raiva. / Dois irmãos adolescentes abrem fogo contra um estacionamento de trailers em vingança por uma transação de drogas ter dado errado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727090000 -0300" stop="20180727100000 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Em uma mesa redonda, Leah comanda um debate sobre a "Ponte para a liberdade absoluta", e o motivo pelo qual os cientologistas gastam fortunas em explorar este sistema de níveis dentro da organização(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727100000 -0300" stop="20180727110000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">Os participantes masculinos não confiam em ninguém: todos suspeitam de todos. Por outro lado, as mulheres têm dúvidas em continuar, e uma delas pode renunciar ao experimento(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Tami Ferraiuolo</actor>
+      <actor>Barbra Roylance Williams</actor>
+      <actor>Jeffrey John Downs</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727110000 -0300" stop="20180727120000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <desc lang="pt">Um homem foi assassinado em Atlanta. A investigação revela duas coisas: que era um marido bastante submisso e que sua esposa tinha uma obscura e secreta adição(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Ben Weddington</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727120000 -0300" stop="20180727130000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Um procurador pede ajuda a Bull para condenar um renomado narcotraficante que assassinou um policial, mas tem evitando a prisão há anos. Bull deverá provar que o acusado tem fingido sofrer de esquizofrenia(n)</desc>
+    <credits>
+      <director>Alex Pillai</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727130000 -0300" stop="20180727140000 -0300" channel="A&amp;E">
+    <title lang="pt">Jovens Assassinos</title>
+    <desc lang="pt">Um jovem mata seus pais adotivos em um acesso de raiva. / Dois irmãos adolescentes abrem fogo contra um estacionamento de trailers em vingança por uma transação de drogas ter dado errado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727140000 -0300" stop="20180727160000 -0300" channel="A&amp;E">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido(n)</desc>
+    <credits>
+      <director>Tony Scott</director>
+      <actor>Denzel Washington</actor>
+      <actor>John Travolta</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Ramon Rodriguez</actor>
+      <actor>Victor Gojcaj</actor>
+      <actor>John Turturro</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Katherine Sigismund</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727160000 -0300" stop="20180727170000 -0300" channel="A&amp;E">
+    <title lang="pt">Segurança Máxima</title>
+    <desc lang="pt">Para provar a presença de gangues na prisão, os novatos revistam todas as celas em busca de evidências comprometedoras(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727170000 -0300" stop="20180727180000 -0300" channel="A&amp;E">
+    <title lang="pt">Segurança Máxima</title>
+    <desc lang="pt">O trabalho na prisão está desgastando os novatos. Fabian comete um gravíssimo erro que pode comprometer seu posto, enquanto Ariel se corrói em dúvidas sobre sua carreira e deixa de ir ao trabalho(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727180000 -0300" stop="20180727200000 -0300" channel="A&amp;E">
+    <title lang="pt">O Sequestro do Metrô 1 2 3</title>
+    <desc lang="pt">Ryder é o líder de uma quadrilha que sequestra um trem do metrô de Nova York e ameaçam matar seus passageiros, caso não seja pago o resgate exigido. Cabe ao operador do metrô, Walter Garber, a missão de negociar com o bandido(n)</desc>
+    <credits>
+      <director>Tony Scott</director>
+      <actor>Denzel Washington</actor>
+      <actor>John Travolta</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Ramon Rodriguez</actor>
+      <actor>Victor Gojcaj</actor>
+      <actor>John Turturro</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Katherine Sigismund</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727200000 -0300" stop="20180727214000 -0300" channel="A&amp;E">
+    <title lang="pt">Marcia Clark Investiga</title>
+    <desc lang="pt">Marcia Clark tenta desvendar como Chandra Levy morreu, uma estagiária que teve um romance com um congressista de Washington(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727214000 -0300" stop="20180727223000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Callen, Sam e Nell devem entrar na Floresta Nacional de Los Angeles para procurar destroços de um lançamento espacial fracassado, entre os quais há um dispositivo do governo ultrassecreto(n)</desc>
+    <credits>
+      <director>Eric A. Pot</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180727223000 -0300" stop="20180728003000 -0300" channel="A&amp;E">
+    <title lang="pt">Legião</title>
+    <desc lang="pt">Deus perdeu a fé na humanidade e ordena que o arcanjo Miguel lidere um exército de anjos para destruir os humanos. Porém, Miguel ainda tem fé nos homens e se rebela, indo contra as ordens de seu Pai(n)</desc>
+    <credits>
+      <director>Scott Stewart</director>
+      <actor>Paul Bettany</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Kevin Durand</actor>
+      <actor>Lucas Black</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>Adrianne Palicki</actor>
+      <actor>Charles S. Dutton</actor>
+      <actor>Willa Holland</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728003000 -0300" stop="20180728013000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Uma visita a sua cidade natal, põe Bull em contato com um jovem que tem uma conexão semelhante a sua com esse lugar. A princípio, Bull foi para ajudar o rapaz, mas talvez consigam se ajudar mutuamente(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728013000 -0300" stop="20180728020000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Um criminoso acusado de sequestro no Arizona, agora semeia o caos em Los Angeles. Akil e sua equipe terão que pecorrer todos os cantos da cidade para encontrá-lo antes que seja tarde demais(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728020000 -0300" stop="20180728030000 -0300" channel="A&amp;E">
+    <title lang="pt">Segurança Máxima</title>
+    <desc lang="pt">Para provar a presença de gangues na prisão, os novatos revistam todas as celas em busca de evidências comprometedoras(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728030000 -0300" stop="20180728034500 -0300" channel="A&amp;E">
+    <title lang="pt">Segurança Máxima</title>
+    <desc lang="pt">O trabalho na prisão está desgastando os novatos. Fabian comete um gravíssimo erro que pode comprometer seu posto, enquanto Ariel se corrói em dúvidas sobre sua carreira e deixa de ir ao trabalho(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728034500 -0300" stop="20180728043000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Uma visita a sua cidade natal, põe Bull em contato com um jovem que tem uma conexão semelhante a sua com esse lugar. A princípio, Bull foi para ajudar o rapaz, mas talvez consigam se ajudar mutuamente(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728043000 -0300" stop="20180728051500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Callen, Sam e Nell devem entrar na Floresta Nacional de Los Angeles para procurar destroços de um lançamento espacial fracassado, entre os quais há um dispositivo do governo ultrassecreto(n)</desc>
+    <credits>
+      <director>Eric A. Pot</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728051500 -0300" stop="20180728060000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <desc lang="pt">Um homem foi assassinado em Atlanta. A investigação revela duas coisas: que era um marido bastante submisso e que sua esposa tinha uma obscura e secreta adição(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Ben Weddington</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728060000 -0300" stop="20180728064500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <desc lang="pt">Um homem foi assassinado em Atlanta. A investigação revela duas coisas: que era um marido bastante submisso e que sua esposa tinha uma obscura e secreta adição(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Ben Weddington</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728064500 -0300" stop="20180728070700 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso experiente que, como ele, está prestes a se tornar pai. Ele vai ter que encontrar uma maneira de pegá-lo sem colocar a futura família em risco. Será que terá sucesso?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728070700 -0300" stop="20180728073000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Um criminoso acusado de sequestro no Arizona, agora semeia o caos em Los Angeles. Akil e sua equipe terão que pecorrer todos os cantos da cidade para encontrá-lo antes que seja tarde demais(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728073000 -0300" stop="20180728081500 -0300" channel="A&amp;E">
+    <title lang="pt">Jovens Assassinos</title>
+    <desc lang="pt">Um jovem mata seus pais adotivos em um acesso de raiva. / Dois irmãos adolescentes abrem fogo contra um estacionamento de trailers em vingança por uma transação de drogas ter dado errado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728081500 -0300" stop="20180728090000 -0300" channel="A&amp;E">
+    <title lang="pt">Nascidos na Prisão</title>
+    <desc lang="pt">Uma nova detenta grávida entra no programa de mães da prisão, mas o grupo de garotas más não lhe dá as boas-vindas e a acusa de roubar um rádio(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728090000 -0300" stop="20180728093000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso experiente que, como ele, está prestes a se tornar pai. Ele vai ter que encontrar uma maneira de pegá-lo sem colocar a futura família em risco. Será que terá sucesso?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728093000 -0300" stop="20180728100000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Um criminoso acusado de sequestro no Arizona, agora semeia o caos em Los Angeles. Akil e sua equipe terão que pecorrer todos os cantos da cidade para encontrá-lo antes que seja tarde demais(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728100000 -0300" stop="20180728110000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <desc lang="pt">Uma mulher leva um tiro no peito, Will e Dimitri tentam apreender os atacantes de um homem que pediu a ajuda do grupo de resposta rápida e, Rodd e Bethany fazem uma busca aéreo por um suspeito escondido no lixo(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Dan Flynn</actor>
+      <actor>Arkady Hennessey</actor>
+      <actor>Nick Manning</actor>
+      <actor>Titus Tero</actor>
+      <actor>Holly Monteleone</actor>
+      <actor>Ted Andressen</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728110000 -0300" stop="20180728120000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Um adolescente briguento de 15 anos com um comportamento desafiador gosta de violência, mas um encontro  com um parente próximo na cadeia, e um rap  de outro colega de cela, combinam-se para trazê-lo de volta à realidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728120000 -0300" stop="20180728130000 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
+    <credits>
+      <director>John Choi</director>
+      <director>Nicolina Lanni</director>
+      <actor>Sarah Burkett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728130000 -0300" stop="20180728140000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Duas histórias de esposas dispostas a fazer tudo para que seus maridos desapareçam. Os maridos de Lynn Stomps e Melanie McGuire desapareceram e as pistas seguidas pela policía revelaram verdades terríveis(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Kikey Castillo</actor>
+      <actor>George Hellas</actor>
+      <actor>Beau Marie</actor>
+      <actor>Robby Perez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728140000 -0300" stop="20180728160000 -0300" channel="A&amp;E">
+    <title lang="pt">Legião</title>
+    <desc lang="pt">Deus perdeu a fé na humanidade e ordena que o arcanjo Miguel lidere um exército de anjos para destruir os humanos. Porém, Miguel ainda tem fé nos homens e se rebela, indo contra as ordens de seu Pai(n)</desc>
+    <credits>
+      <director>Scott Stewart</director>
+      <actor>Paul Bettany</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Kevin Durand</actor>
+      <actor>Lucas Black</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>Adrianne Palicki</actor>
+      <actor>Charles S. Dutton</actor>
+      <actor>Willa Holland</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728160000 -0300" stop="20180728170000 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
+    <credits>
+      <director>John Choi</director>
+      <director>Nicolina Lanni</director>
+      <actor>Sarah Burkett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728170000 -0300" stop="20180728180000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Duas histórias de esposas dispostas a fazer tudo para que seus maridos desapareçam. Os maridos de Lynn Stomps e Melanie McGuire desapareceram e as pistas seguidas pela policía revelaram verdades terríveis(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Kikey Castillo</actor>
+      <actor>George Hellas</actor>
+      <actor>Beau Marie</actor>
+      <actor>Robby Perez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728180000 -0300" stop="20180728200000 -0300" channel="A&amp;E">
+    <title lang="pt">O Vôo do Dragão</title>
+    <desc lang="pt">Uma quadrilha obriga uma jovem oriental a vender seu restaurante em Roma. Para protegê-la, o tio dela envia a Hong Kong um especialista em artes marciais(n)</desc>
+    <credits>
+      <director>Bruce Lee</director>
+      <actor>Bruce Lee</actor>
+      <actor>Chuck Norris</actor>
+      <actor>Nora Miao</actor>
+      <actor>Wei Ping Au</actor>
+      <actor>Jon T. Benn</actor>
+      <actor>Tony Liu</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728200000 -0300" stop="20180728205000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <desc lang="pt">Após uma operação clandestina para desmantelar a rede de corrupção do prefeito Hamilton, Pride deve passar 6 semanas em avaliação e sua equipe será monitorada de perto pela supervisora Paula Boyd(n)</desc>
+    <credits>
+      <director>James Hayman</director>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Kiley Casciano</actor>
+      <actor>Matt Biedel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728205000 -0300" stop="20180728214000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Um procurador pede ajuda a Bull para condenar um renomado narcotraficante que assassinou um policial, mas tem evitando a prisão há anos. Bull deverá provar que o acusado tem fingido sofrer de esquizofrenia(n)</desc>
+    <credits>
+      <director>Alex Pillai</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728214000 -0300" stop="20180728223000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Callen, Sam e Nell devem entrar na Floresta Nacional de Los Angeles para procurar destroços de um lançamento espacial fracassado, entre os quais há um dispositivo do governo ultrassecreto(n)</desc>
+    <credits>
+      <director>Eric A. Pot</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180728223000 -0300" stop="20180729003000 -0300" channel="A&amp;E">
+    <title lang="pt">Jogos Letais</title>
+    <desc lang="pt">Brazil é um matador de aluguel e Flint abandonou um negócio depois de um traficante deixar sua esposa em coma. Quando alguém planeja matar este traficante, Brazil e Flint querem o trabalho(n)</desc>
+    <credits>
+      <director>Ernie Barbarash</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Kevin Chapman</actor>
+      <actor>Ivan Kaye</actor>
+      <actor>Serban Celea</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729003000 -0300" stop="20180729023000 -0300" channel="A&amp;E">
+    <title lang="pt">O Vôo do Dragão</title>
+    <desc lang="pt">Uma quadrilha obriga uma jovem oriental a vender seu restaurante em Roma. Para protegê-la, o tio dela envia a Hong Kong um especialista em artes marciais(n)</desc>
+    <credits>
+      <director>Bruce Lee</director>
+      <actor>Bruce Lee</actor>
+      <actor>Chuck Norris</actor>
+      <actor>Nora Miao</actor>
+      <actor>Wei Ping Au</actor>
+      <actor>Jon T. Benn</actor>
+      <actor>Tony Liu</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729023000 -0300" stop="20180729030000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Um criminoso acusado de sequestro no Arizona, agora semeia o caos em Los Angeles. Akil e sua equipe terão que pecorrer todos os cantos da cidade para encontrá-lo antes que seja tarde demais(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729030000 -0300" stop="20180729034500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <desc lang="pt">Após uma operação clandestina para desmantelar a rede de corrupção do prefeito Hamilton, Pride deve passar 6 semanas em avaliação e sua equipe será monitorada de perto pela supervisora Paula Boyd(n)</desc>
+    <credits>
+      <director>James Hayman</director>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+      <actor>Rob Kerkovich</actor>
+      <actor>CCH Pounder</actor>
+      <actor>Aaron Mitchell</actor>
+      <actor>Kiley Casciano</actor>
+      <actor>Matt Biedel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729034500 -0300" stop="20180729043000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Um procurador pede ajuda a Bull para condenar um renomado narcotraficante que assassinou um policial, mas tem evitando a prisão há anos. Bull deverá provar que o acusado tem fingido sofrer de esquizofrenia(n)</desc>
+    <credits>
+      <director>Alex Pillai</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729043000 -0300" stop="20180729051500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">Callen, Sam e Nell devem entrar na Floresta Nacional de Los Angeles para procurar destroços de um lançamento espacial fracassado, entre os quais há um dispositivo do governo ultrassecreto(n)</desc>
+    <credits>
+      <director>Eric A. Pot</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729051500 -0300" stop="20180729060000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Duas histórias de esposas dispostas a fazer tudo para que seus maridos desapareçam. Os maridos de Lynn Stomps e Melanie McGuire desapareceram e as pistas seguidas pela policía revelaram verdades terríveis(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Kikey Castillo</actor>
+      <actor>George Hellas</actor>
+      <actor>Beau Marie</actor>
+      <actor>Robby Perez</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729060000 -0300" stop="20180729062200 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Em Maryland, um casal embriagado briga e os agentes têm que separá-los. Na Carolina do Sul, perseguem um suspeito em velocidade máxima, e em Indiana, um ladrão ensanguentado deixa a população em alerta(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729062200 -0300" stop="20180729064500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os agentes ajudam um motorista que capotou em plena rodovia no Arizona. Enquanto isso, na Flórida, entregam uma ordem de detenção, e em Connecticut, perseguem um suspeito em alta velocidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729064500 -0300" stop="20180729073000 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <desc lang="pt">Os investigadores Olsen e Paige viajam ao Panamá para buscar a uma ex-namorada de Edward Bell. Eles têm a esperança de que uma mensagem sua faça com que Bell conte a verdade sobre os assassinatos das 11 jovens(n)</desc>
+    <credits>
+      <director>John Choi</director>
+      <director>Nicolina Lanni</director>
+      <actor>Sarah Burkett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729073000 -0300" stop="20180729075200 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Funcionários da alfândega seguem os passos de um fugitivo até a fronteira do Estado de Washington. Conseguirão capturá-lo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729075200 -0300" stop="20180729081500 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Graças aos conhecimentos em linguagem corporal, os oficiais do aeroporto JFK fazem uma grande descoberta. O que esconde este passageiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729081500 -0300" stop="20180729090000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">As filhas de Joanne e Kristy sofreram tanto por conta do problema de acumulação, que uma delas sofre de transtorno de estresse pós-traumático, enquanto que a outra se viu obrigada a abandonar o seu lar(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729090000 -0300" stop="20180729100000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Barbara percorre becos e lixeiras à procura de itens para entulhar sua mansão. Fred e Mary convivem com as teias de aranha e baratas, ao ponto de Fred estar muito doente por causa da sujeira(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729100000 -0300" stop="20180729110000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Scott tem um problema de acumulação tão grave que tem enchido centenas de casas, edifícios e celeiros com coisas que compra em leilões(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729110000 -0300" stop="20180729113000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Em Maryland, um casal embriagado briga e os agentes têm que separá-los. Na Carolina do Sul, perseguem um suspeito em velocidade máxima, e em Indiana, um ladrão ensanguentado deixa a população em alerta(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729113000 -0300" stop="20180729120000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os agentes ajudam um motorista que capotou em plena rodovia no Arizona. Enquanto isso, na Flórida, entregam uma ordem de detenção, e em Connecticut, perseguem um suspeito em alta velocidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729120000 -0300" stop="20180729130000 -0300" channel="A&amp;E">
+    <title lang="pt">Jovens Assassinos</title>
+    <desc lang="pt">Um jovem mata seus pais adotivos em um acesso de raiva. / Dois irmãos adolescentes abrem fogo contra um estacionamento de trailers em vingança por uma transação de drogas ter dado errado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729130000 -0300" stop="20180729140000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Barbara percorre becos e lixeiras à procura de itens para entulhar sua mansão. Fred e Mary convivem com as teias de aranha e baratas, ao ponto de Fred estar muito doente por causa da sujeira(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729140000 -0300" stop="20180729160000 -0300" channel="A&amp;E">
+    <title lang="pt">Jogos Letais</title>
+    <desc lang="pt">Brazil é um matador de aluguel e Flint abandonou um negócio depois de um traficante deixar sua esposa em coma. Quando alguém planeja matar este traficante, Brazil e Flint querem o trabalho(n)</desc>
+    <credits>
+      <director>Ernie Barbarash</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Scott Adkins</actor>
+      <actor>Kevin Chapman</actor>
+      <actor>Ivan Kaye</actor>
+      <actor>Serban Celea</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729160000 -0300" stop="20180729163000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Em Maryland, um casal embriagado briga e os agentes têm que separá-los. Na Carolina do Sul, perseguem um suspeito em velocidade máxima, e em Indiana, um ladrão ensanguentado deixa a população em alerta(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729163000 -0300" stop="20180729183000 -0300" channel="A&amp;E">
+    <title lang="pt">Traição Mortal</title>
+    <desc lang="pt">Quando o afluxo de traficantes procedentes de Seattle aumenta, Elias Kane tem que entrar em cena com o seu esquadrão de elite de policiais disfarçados, com a intenção de fazer as coisas voltarem ao normal(n)</desc>
+    <credits>
+      <director>Keoni Waxman</director>
+      <actor>Steven Seagal</actor>
+      <actor>Meghan Ory</actor>
+      <actor>Warren Christie</actor>
+      <actor>William 'Big Sleeps' Stewart</actor>
+      <actor>Sarah Lind</actor>
+      <actor>Elizabeth Thai</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729183000 -0300" stop="20180729203000 -0300" channel="A&amp;E">
+    <title lang="pt">Justiça Letal</title>
+    <desc lang="pt">Kane e sua equipe lutam contra a Nação Aria, que trabalha para influenciar os votos das eleições. Enquanto a advogada Lisa Clayton não pode prender um estuprador, Juliet não consegue suportar e faz justiça com as próprias mãos(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Steven Seagal</actor>
+      <actor>J. Anthony Pena</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729203000 -0300" stop="20180729223000 -0300" channel="A&amp;E">
+    <title lang="pt">Olho Por Olho</title>
+    <desc lang="pt">Kane e sua equipe removem o vírus “The Ghost” do sistema de apoio, e Kane procura uma oportunidade para atingir o responsável pelo ataque à sua delegacia – mas o FBI toma conhecimento de suas atividades e quer que ele pare(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Steven Seagal</actor>
+      <actor>Sarah Lind</actor>
+      <actor>Jesse Hutch</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180729223000 -0300" stop="20180730003000 -0300" channel="A&amp;E">
+    <title lang="pt">Anjo da Morte</title>
+    <desc lang="pt">Abdul Hassan, um terrorista egípcio, esconde um artefato misterioso, que pode ser uma arma nuclear, depois de encontrar Milan Saric em um bordel. Kane resolve rastrear seus passos e envia sua equipe nessa missão(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Amir Arison</actor>
+      <actor>Tanaya Beatty</actor>
+      <actor>Martin Cummins</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730003000 -0300" stop="20180730010000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os agentes ajudam um motorista que capotou em plena rodovia no Arizona. Enquanto isso, na Flórida, entregam uma ordem de detenção, e em Connecticut, perseguem um suspeito em alta velocidade(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730010000 -0300" stop="20180730013000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Funcionários da alfândega seguem os passos de um fugitivo até a fronteira do Estado de Washington. Conseguirão capturá-lo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730013000 -0300" stop="20180730020000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Graças aos conhecimentos em linguagem corporal, os oficiais do aeroporto JFK fazem uma grande descoberta. O que esconde este passageiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730020000 -0300" stop="20180730030000 -0300" channel="A&amp;E">
+    <title lang="pt">Jovens Assassinos</title>
+    <desc lang="pt">Um jovem mata seus pais adotivos em um acesso de raiva. / Dois irmãos adolescentes abrem fogo contra um estacionamento de trailers em vingança por uma transação de drogas ter dado errado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730030000 -0300" stop="20180730034500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">As filhas de Joanne e Kristy sofreram tanto por conta do problema de acumulação, que uma delas sofre de transtorno de estresse pós-traumático, enquanto que a outra se viu obrigada a abandonar o seu lar(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730034500 -0300" stop="20180730043000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Barbara percorre becos e lixeiras à procura de itens para entulhar sua mansão. Fred e Mary convivem com as teias de aranha e baratas, ao ponto de Fred estar muito doente por causa da sujeira(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730043000 -0300" stop="20180730051500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Scott tem um problema de acumulação tão grave que tem enchido centenas de casas, edifícios e celeiros com coisas que compra em leilões(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730051500 -0300" stop="20180730053700 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Funcionários da alfândega seguem os passos de um fugitivo até a fronteira do Estado de Washington. Conseguirão capturá-lo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730053700 -0300" stop="20180730060000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Graças aos conhecimentos em linguagem corporal, os oficiais do aeroporto JFK fazem uma grande descoberta. O que esconde este passageiro?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730060000 -0300" stop="20180730064500 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Depois de tantos escândalos, a Cientologia precisa melhorar sua imagem publica. Leah e Mike se reúnem com um grupo de especialistas para discutir como funciona a propaganda da Cientologia(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730064500 -0300" stop="20180730073000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">O último voluntário entra na prisão, e agora todos deverão enfrentar a vida atrás das grades(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>R.W. Parka</actor>
+      <actor>Barbra Roylance Williams</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730073000 -0300" stop="20180730081500 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Na prisão do condado de St. Clair, em Illinois, um adolescente problemático desaparece no meio de um tumulto de presos irritados e os policiais tentam descobrir onde ele foi parar(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730081500 -0300" stop="20180730090000 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Depois de tantos escândalos, a Cientologia precisa melhorar sua imagem publica. Leah e Mike se reúnem com um grupo de especialistas para discutir como funciona a propaganda da Cientologia(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730090000 -0300" stop="20180730100000 -0300" channel="A&amp;E">
+    <title lang="pt">Nascidos na Prisão</title>
+    <desc lang="pt">Três das detentas disputam o cobiçado posto de babá, mas apenas uma delas conta com o apoio de seu grupo de garotas más. Além disso, Brandi se prepara para sua audiência diante do comitê de liberdade condicional(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730100000 -0300" stop="20180730110000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">O último voluntário entra na prisão, e agora todos deverão enfrentar a vida atrás das grades(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>R.W. Parka</actor>
+      <actor>Barbra Roylance Williams</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730110000 -0300" stop="20180730120000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Na prisão do condado de St. Clair, em Illinois, um adolescente problemático desaparece no meio de um tumulto de presos irritados e os policiais tentam descobrir onde ele foi parar(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730120000 -0300" stop="20180730130000 -0300" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <desc lang="pt">Quando um homem é assassinado por um pequeno drone, a equipe descobre sua conexão com um grupo terrorista que está planejando outro ataque local. Com pouco tempo disponível, Nell precisa evitar um desastre em Long Beach(n)</desc>
+    <credits>
+      <director>Dave Rodriguez</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Tamlyn Tomita</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730130000 -0300" stop="20180730140000 -0300" channel="A&amp;E">
+    <title lang="pt">Nascidos na Prisão</title>
+    <desc lang="pt">Três das detentas disputam o cobiçado posto de babá, mas apenas uma delas conta com o apoio de seu grupo de garotas más. Além disso, Brandi se prepara para sua audiência diante do comitê de liberdade condicional(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730140000 -0300" stop="20180730160000 -0300" channel="A&amp;E">
+    <title lang="pt">Anjo da Morte</title>
+    <desc lang="pt">Abdul Hassan, um terrorista egípcio, esconde um artefato misterioso, que pode ser uma arma nuclear, depois de encontrar Milan Saric em um bordel. Kane resolve rastrear seus passos e envia sua equipe nessa missão(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Amir Arison</actor>
+      <actor>Tanaya Beatty</actor>
+      <actor>Martin Cummins</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730160000 -0300" stop="20180730170000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Na prisão do condado de St. Clair, em Illinois, um adolescente problemático desaparece no meio de um tumulto de presos irritados e os policiais tentam descobrir onde ele foi parar(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730170000 -0300" stop="20180730180000 -0300" channel="A&amp;E">
+    <title lang="pt">Nascidos na Prisão</title>
+    <desc lang="pt">Três das detentas disputam o cobiçado posto de babá, mas apenas uma delas conta com o apoio de seu grupo de garotas más. Além disso, Brandi se prepara para sua audiência diante do comitê de liberdade condicional(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730180000 -0300" stop="20180730183000 -0300" channel="A&amp;E">
+    <title lang="pt">Desaparecidos</title>
+    <desc lang="pt">Douglas viajou rumo à casa do pai em outra cidade, mas não chegou ao seu destino. Lilian foi entregue para adoção logo após o parto. Profundamente arrependida, a mãe tenta corrigir seu erro, mas poderia ser tarde demais(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730183000 -0300" stop="20180730190000 -0300" channel="A&amp;E">
+    <title lang="pt">Desaparecidos</title>
+    <desc lang="pt">Antônio, um homem com sérios problemas psiquiátricos. Em busca de apoio e tratamento, a família o enviou para uma clínica. Ao contrário do que esperavam, esse era o começo de um pesadelo(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730190000 -0300" stop="20180730193000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os policiais atendem a um chamado por um incêndio em um acampamento de trailers na Flórida. Enquanto isso, em Tulsa, acontece um ataque antidroga e na Louisiana, os agentes enfrentam um suspeito armado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730193000 -0300" stop="20180730200000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Na Carolina do Sul, um suspeito rouba uma viatura policial. No Arizona, alguém faz uma ligação desesperada por conta de uma overdose, enquanto em Maryland, dois veículos colidem de frente com resultados incertos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730200000 -0300" stop="20180730223000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo</title>
+    <desc lang="pt">Um olhar ao vivo e sem filtros das ruas do país junto a suas forças policias, enquanto defendem e servem durante o turno noturno(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180730223000 -0300" stop="20180731003000 -0300" channel="A&amp;E">
+    <title lang="pt">Olho Por Olho</title>
+    <desc lang="pt">Kane e sua equipe removem o vírus “The Ghost” do sistema de apoio, e Kane procura uma oportunidade para atingir o responsável pelo ataque à sua delegacia – mas o FBI toma conhecimento de suas atividades e quer que ele pare(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Steven Seagal</actor>
+      <actor>Sarah Lind</actor>
+      <actor>Jesse Hutch</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731003000 -0300" stop="20180731010000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Em um episódio carregado de drogas, os agentes da Carolina do Sul prendem um suspeito com crack, e os de Utah descobrem uma rede de tráfico de maconha. Além disso, uma perseguição em velocidade máxima em Kentucky(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731010000 -0300" stop="20180731013000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <desc lang="pt">Um homem chega de Hong Kong com uma mala cheia de carne – e algo muito mais perigoso! Um inglês com um visto de trabalho vencido talvez não possa visitar a namorada(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731013000 -0300" stop="20180731020000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <desc lang="pt">Um praticante de snowboarding embriagado causa problemas no aeroporto. Dois pacotes transportam uma surpresa fatal e uma americana só tem passagem de ida para conhecer o namorado que encontrou na internet(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731020000 -0300" stop="20180731023000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os policiais atendem a um chamado por um incêndio em um acampamento de trailers na Flórida. Enquanto isso, em Tulsa, acontece um ataque antidroga e na Louisiana, os agentes enfrentam um suspeito armado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731023000 -0300" stop="20180731030000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Na Carolina do Sul, um suspeito rouba uma viatura policial. No Arizona, alguém faz uma ligação desesperada por conta de uma overdose, enquanto em Maryland, dois veículos colidem de frente com resultados incertos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731030000 -0300" stop="20180731034500 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">Na prisão do condado de St. Clair, em Illinois, um adolescente problemático desaparece no meio de um tumulto de presos irritados e os policiais tentam descobrir onde ele foi parar(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731034500 -0300" stop="20180731043000 -0300" channel="A&amp;E">
+    <title lang="pt">Ncis: Los Angeles</title>
+    <desc lang="pt">Quando um homem é assassinado por um pequeno drone, a equipe descobre sua conexão com um grupo terrorista que está planejando outro ataque local. Com pouco tempo disponível, Nell precisa evitar um desastre em Long Beach(n)</desc>
+    <credits>
+      <director>Dave Rodriguez</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Tamlyn Tomita</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731043000 -0300" stop="20180731051500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">O último voluntário entra na prisão, e agora todos deverão enfrentar a vida atrás das grades(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>R.W. Parka</actor>
+      <actor>Barbra Roylance Williams</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731051500 -0300" stop="20180731060000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <desc lang="pt">As irmãs Precious e Keyiona não tinham medo de serem presas até ver outro membro da família atrás das grades. E Bobby não demonstra nenhum remorso por roubar ou agredir os outros, especialmente a mãe(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731060000 -0300" stop="20180731064500 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Liz Gale cresceu em uma família de Cientologistas, acreditando que a Cientologia era o caminho para ter una família perfeita(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731064500 -0300" stop="20180731073000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">Trotes, uso de drogas e violência tomam conta da Penitenciária do Condado de Clark e dois participantes estão à beira de abandonar o programa(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>R.W. Parka</actor>
+      <actor>Barbra Roylance Williams</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731073000 -0300" stop="20180731075200 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso que gerou um conflito racial entre gângsteres mexicanos e afro-americanos. Ele conseguirá capturá-lo antes que se desencadeie uma guerra?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731075200 -0300" stop="20180731081500 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil e sua equipe estão atrás de um fugitivo que se afastou de seus ex-cúmplices e conhecidos. Para encontrá-lo, serão forçados a recorrer a fontes às quais não estão acostumados(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731081500 -0300" stop="20180731090000 -0300" channel="A&amp;E">
+    <title lang="pt">Nascidos na Prisão</title>
+    <desc lang="pt">Três das detentas disputam o cobiçado posto de babá, mas apenas uma delas conta com o apoio de seu grupo de garotas más. Além disso, Brandi se prepara para sua audiência diante do comitê de liberdade condicional(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731090000 -0300" stop="20180731100000 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Liz Gale cresceu em uma família de Cientologistas, acreditando que a Cientologia era o caminho para ter una família perfeita(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731100000 -0300" stop="20180731103000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso que gerou um conflito racial entre gângsteres mexicanos e afro-americanos. Ele conseguirá capturá-lo antes que se desencadeie uma guerra?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731103000 -0300" stop="20180731110000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil e sua equipe estão atrás de um fugitivo que se afastou de seus ex-cúmplices e conhecidos. Para encontrá-lo, serão forçados a recorrer a fontes às quais não estão acostumados(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731110000 -0300" stop="20180731120000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">Trotes, uso de drogas e violência tomam conta da Penitenciária do Condado de Clark e dois participantes estão à beira de abandonar o programa(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>R.W. Parka</actor>
+      <actor>Barbra Roylance Williams</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731120000 -0300" stop="20180731130000 -0300" channel="A&amp;E">
+    <title lang="pt">Escravos da Cientologia</title>
+    <desc lang="pt">Liz Gale cresceu em uma família de Cientologistas, acreditando que a Cientologia era o caminho para ter una família perfeita(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Leah Remini</actor>
+      <actor>Mike Rinder</actor>
+      <actor>Alex Weresow</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731130000 -0300" stop="20180731133000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os policiais atendem a um chamado por um incêndio em um acampamento de trailers na Flórida. Enquanto isso, em Tulsa, acontece um ataque antidroga e na Louisiana, os agentes enfrentam um suspeito armado(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731133000 -0300" stop="20180731140000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Na Carolina do Sul, um suspeito rouba uma viatura policial. No Arizona, alguém faz uma ligação desesperada por conta de uma overdose, enquanto em Maryland, dois veículos colidem de frente com resultados incertos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731140000 -0300" stop="20180731160000 -0300" channel="A&amp;E">
+    <title lang="pt">Olho Por Olho</title>
+    <desc lang="pt">Kane e sua equipe removem o vírus “The Ghost” do sistema de apoio, e Kane procura uma oportunidade para atingir o responsável pelo ataque à sua delegacia – mas o FBI toma conhecimento de suas atividades e quer que ele pare(n)</desc>
+    <credits>
+      <director>Wayne Rose</director>
+      <actor>Steven Seagal</actor>
+      <actor>Sarah Lind</actor>
+      <actor>Jesse Hutch</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731160000 -0300" stop="20180731163000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso que gerou um conflito racial entre gângsteres mexicanos e afro-americanos. Ele conseguirá capturá-lo antes que se desencadeie uma guerra?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731163000 -0300" stop="20180731170000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil segue a pista de um criminoso que gerou um conflito racial entre gângsteres mexicanos e afro-americanos. Ele conseguirá capturá-lo antes que se desencadeie uma guerra?(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731170000 -0300" stop="20180731173000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Na Carolina do Sul, um suspeito rouba uma viatura policial. No Arizona, alguém faz uma ligação desesperada por conta de uma overdose, enquanto em Maryland, dois veículos colidem de frente com resultados incertos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731173000 -0300" stop="20180731180000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">As forças policiais detêm um suspeito por contrabando de cocaína no Texas. Enquanto isso, em Connecticut, uma casa arde em chamas e os agentes vão ao resgate(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731180000 -0300" stop="20180731183000 -0300" channel="A&amp;E">
+    <title lang="pt">Desaparecidos</title>
+    <desc lang="pt">Joana, uma mulher amada por todos, com alma de artista e muitos talentos. Mas, ela teve seu brilho ofuscado por uma forte depressão que levou ao seu inexplicável desaparecimento(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731183000 -0300" stop="20180731190000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Os agentes realizam uma vistoria de rotina e encontram provas de que um passageiro é extremamente perigoso. Como capturá-lo sem criar um caos?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731190000 -0300" stop="20180731193000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">As forças de segurança advertem um grupo de menores consumindo bebidas alcoólicas na Florida(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731193000 -0300" stop="20180731205000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia 24 Horas</title>
+    <desc lang="pt">Câmeras permanentes são testemunhas do trabalho dos profissionais no momento em que são acionados. Os protagonistas de "Polícia 24 Horas" são a comunidade e a Polícia(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731205000 -0300" stop="20180731214000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <desc lang="pt">Will e Dimitri atendem um jovem que leva um tiro durante um jogo de futebol americano em um colégio. Além disso, Mayville e Stokes lidam com múltiplas ameaças de bomba e o grupo de resposta rápida persegue um adolescente(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Dan Flynn</actor>
+      <actor>Arkady Hennessey</actor>
+      <actor>Nick Manning</actor>
+      <actor>Titus Tero</actor>
+      <actor>Holly Monteleone</actor>
+      <actor>Ted Andressen</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731214000 -0300" stop="20180731220500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Os agentes devem deter um confronto armado entre gangues em Tulsa. Em Bridgeport, alguém rouba uma viatura. Em Utah, descobrem uma rede de tráfico de heroína, e na Carolina do Sul, uma rede de prostituição masculina(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731220500 -0300" stop="20180731223000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">A busca por um suspeito desencadeia uma perigosa perseguição na Carolina do Sul. Além disso, a polícia de Phoenix descobre uma rede de prostituição e, em Bridgeport, uma criança perdida procura seus pais(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180731223000 -0300" stop="20180801013000 -0300" channel="A&amp;E">
+    <title lang="pt">Filhos da Esperança</title>
+    <desc lang="pt">Em um futuro apocalíptico, as mulheres não engravidam mais e a humanidade corre o risco de extinção. Mas a aparição de uma jovem grávida faz com que ela seja protegida por um ex-ativista(n)</desc>
+    <credits>
+      <director>Alfonso Cuarón</director>
+      <actor>Clive Owen</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Michael Caine</actor>
+      <actor>Juan Gabriel Yacuzzi</actor>
+      <actor>Maria McErlane</actor>
+      <actor>Paul Sharma</actor>
+      <actor>Philippa Urquhart</actor>
+      <actor>Tehmina Sunny</actor>
+      <actor>Ed Westwick</actor>
+      <actor>Rob Inch</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801013000 -0300" stop="20180801023000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Elisa vivia uma boa vida em Sacramento. Seu marido Larry era um advogado bem sucedido e desde que apareceu em comerciais de televisão, usando roupas de cowboy, se tornou conhecido como o "Homem da Marlboro"(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Brett Kamerman</actor>
+      <actor>Jeff Moore</actor>
+      <actor>Sam Hale</actor>
+      <actor>Dylan Busse</actor>
+      <actor>Melanie Avalon</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801023000 -0300" stop="20180801030000 -0300" channel="A&amp;E">
+    <title lang="pt">O Caçador de Fugitivos</title>
+    <desc lang="pt">Akil e sua equipe estão atrás de um fugitivo que se afastou de seus ex-cúmplices e conhecidos. Para encontrá-lo, serão forçados a recorrer a fontes às quais não estão acostumados(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Wood Harris</actor>
+      <actor>Akil Muhammad</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801030000 -0300" stop="20180801034500 -0300" channel="A&amp;E">
+    <title lang="pt">Com A Palavra, o Júri</title>
+    <desc lang="pt">Uma recontagem do julgamento criminal People vs Jackson 2005, do ponto de vista dos jurados, no qual o artista americano Michael Jackson foi julgado com base em acusações de Gavin Arvizo, um menino de 13 anos(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Adriana Alveario</actor>
+      <actor>Tariq James Arthur</actor>
+      <actor>Martin Bashir</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801034500 -0300" stop="20180801043000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <desc lang="pt">Uma adolescente é acusada de roubar uma joalheria junto com um idoso. Mas Bull suspeita que ela tenha sido coagida a cometer o crime e tentará convencer o júri a absolvê-la. Conseguirá provar sua teoria?(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Michael Weatherly</actor>
+      <actor>Freddy Rodríguez</actor>
+      <actor>Geneva Carr</actor>
+      <actor>Annabelle Attanasio</actor>
+      <actor>Trieste Kelly Dunn</actor>
+      <actor>Todd Faulkner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801043000 -0300" stop="20180801051500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <desc lang="pt">A equipe deve negociar a libertação de dois fotógrafos estadunidenses que foram feitos de reféns no Irã. O pai de Callen é detido durante a negociação. Qual é seu papel em todo este assunto?(n)</desc>
+    <credits>
+      <director>Terence Nightingall</director>
+      <actor>Linda Hunt</actor>
+      <actor>Chris O'Donnell</actor>
+      <actor>Daniela Ruah</actor>
+      <actor>Eric Christian Olsen</actor>
+      <actor>Barrett Foa</actor>
+      <actor>LL Cool J</actor>
+      <actor>Renée Felice Smith</actor>
+      <actor>Anny Rosario</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801051500 -0300" stop="20180801060000 -0300" channel="A&amp;E">
+    <title lang="pt">Esposas Assassinas</title>
+    <desc lang="pt">Elisa vivia uma boa vida em Sacramento. Seu marido Larry era um advogado bem sucedido e desde que apareceu em comerciais de televisão, usando roupas de cowboy, se tornou conhecido como o "Homem da Marlboro"(n)</desc>
+    <credits>
+      <director>John Tindall</director>
+      <actor>Brett Kamerman</actor>
+      <actor>Jeff Moore</actor>
+      <actor>Sam Hale</actor>
+      <actor>Dylan Busse</actor>
+      <actor>Melanie Avalon</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801060000 -0300" stop="20180801062200 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">No Texas, os agentes perseguem um touro solto que causa estragos em seu caminho. Enquanto isso, em Phoenix, ocorre uma perigosa perseguição na estrada(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801062200 -0300" stop="20180801064500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Em um episódio carregado de drogas, os agentes da Carolina do Sul prendem um suspeito com crack, e os de Utah descobrem uma rede de tráfico de maconha. Além disso, uma perseguição em velocidade máxima em Kentucky(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801064500 -0300" stop="20180801073000 -0300" channel="A&amp;E">
+    <title lang="pt">O Mistério das 11 Garotas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801073000 -0300" stop="20180801075200 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Oficiais do aeroporto JFK recebem um alerta sobre um possível contrabando de drogas em mochilas, o que acarreta uma busca desenfreada(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801075200 -0300" stop="20180801081500 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Uma maleta ensanguentada chama a atenção no aeroporto de Detroit e os oficiais agem de imediato. O que seu dono esconde?(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801081500 -0300" stop="20180801090000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Scott tem um problema de acumulação tão grave que tem enchido centenas de casas, edifícios e celeiros com coisas que compra em leilões(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801090000 -0300" stop="20180801100000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">A filha de Talia pode escrever um manual de como conviver com sua mãe acumuladora, mas tudo tem um limite. A doença de Jan é tão grave que não tem jogado o lixo fora desde 2006(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801100000 -0300" stop="20180801110000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Verna já teve muitos problemas com a lei, mas conseguiu evitar que a acusassem por seu vício em acumulação. Só que agora, Verna está no hospital, e o médicos não vão deixá-la sair dali até que sua casa esteja limpa(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801110000 -0300" stop="20180801113000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">No Texas, os agentes perseguem um touro solto que causa estragos em seu caminho. Enquanto isso, em Phoenix, ocorre uma perigosa perseguição na estrada(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801113000 -0300" stop="20180801120000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <desc lang="pt">Em um episódio carregado de drogas, os agentes da Carolina do Sul prendem um suspeito com crack, e os de Utah descobrem uma rede de tráfico de maconha. Além disso, uma perseguição em velocidade máxima em Kentucky(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801120000 -0300" stop="20180801130000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Scott tem um problema de acumulação tão grave que tem enchido centenas de casas, edifícios e celeiros com coisas que compra em leilões(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801130000 -0300" stop="20180801140000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">A filha de Talia pode escrever um manual de como conviver com sua mãe acumuladora, mas tudo tem um limite. A doença de Jan é tão grave que não tem jogado o lixo fora desde 2006(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801140000 -0300" stop="20180801163000 -0300" channel="A&amp;E">
+    <title lang="pt">Rocky</title>
+    <sub-title lang="pt">Um Lutador</sub-title>
+    <desc lang="pt">Rocky está numa fase ruim, até seu treinador começa a desistir. Tudo muda quando o superboxeador Apollo Creed decide encontrar alguém para nocautear(n)</desc>
+    <credits>
+      <director>John G. Avildsen</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Talia Shire</actor>
+      <actor>Burt Young</actor>
+      <actor>Carl Weathers</actor>
+      <actor>Burgess Meredith</actor>
+      <actor>Thayer David</actor>
+      <actor>Joe Spinell</actor>
+      <actor>Jimmy Gambina</actor>
+      <actor>Bill Baldwin</actor>
+      <actor>Al Silvani</actor>
+      <actor>George Memmoli</actor>
+      <actor>Jodi Letizia</actor>
+      <actor>Diana Lewis</actor>
+      <actor>George O'Hanlon</actor>
+      <actor>Larry Carroll</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801163000 -0300" stop="20180801173000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Verna já teve muitos problemas com a lei, mas conseguiu evitar que a acusassem por seu vício em acumulação. Só que agora, Verna está no hospital, e o médicos não vão deixá-la sair dali até que sua casa esteja limpa(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801173000 -0300" stop="20180801180000 -0300" channel="A&amp;E">
+    <title lang="pt">Barrados na Fronteira</title>
+    <sub-title lang="pt">EUA</sub-title>
+    <desc lang="pt">Oficiais do aeroporto JFK recebem um alerta sobre um possível contrabando de drogas em mochilas, o que acarreta uma busca desenfreada(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801180000 -0300" stop="20180801203000 -0300" channel="A&amp;E">
+    <title lang="pt">Rocky</title>
+    <sub-title lang="pt">Um Lutador</sub-title>
+    <desc lang="pt">Rocky está numa fase ruim, até seu treinador começa a desistir. Tudo muda quando o superboxeador Apollo Creed decide encontrar alguém para nocautear(n)</desc>
+    <credits>
+      <director>John G. Avildsen</director>
+      <actor>Sylvester Stallone</actor>
+      <actor>Talia Shire</actor>
+      <actor>Burt Young</actor>
+      <actor>Carl Weathers</actor>
+      <actor>Burgess Meredith</actor>
+      <actor>Thayer David</actor>
+      <actor>Joe Spinell</actor>
+      <actor>Jimmy Gambina</actor>
+      <actor>Bill Baldwin</actor>
+      <actor>Al Silvani</actor>
+      <actor>George Memmoli</actor>
+      <actor>Jodi Letizia</actor>
+      <actor>Diana Lewis</actor>
+      <actor>George O'Hanlon</actor>
+      <actor>Larry Carroll</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801203000 -0300" stop="20180801223000 -0300" channel="A&amp;E">
+    <title lang="pt">Ultravioleta</title>
+    <desc lang="pt">Uma sub-espécie de humanos sofreu modificação genética e agora tem velocidade, resistência e inteligência superior. O governo ordenou que sejam exterminados. Mas a bela e mortal Violet está disposta a salvar a vida de um garoto(n)</desc>
+    <credits>
+      <director>Kurt Wimmer</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Cameron Bright</actor>
+      <actor>Nick Chinlund</actor>
+      <actor>William Fichtner</actor>
+      <actor>Sebastien Andrieu</actor>
+      <actor>Ida Martin</actor>
+      <actor>David Collier</actor>
+      <actor>Kieran O'Rorke</actor>
+      <actor>Digger Mesch</actor>
+      <actor>Ryan Martin</actor>
+      <actor>Ricardo Mamoud</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180801223000 -0300" stop="20180802003000 -0300" channel="A&amp;E">
+    <title lang="pt">O Albergue</title>
+    <desc lang="pt">Dois americanos põem a mochila nas costas e saem viajando pela Europa. Em Amsterdã são convencidos por outros viajantes a ir a uma afastada cidade eslovaca onde podem conseguir sexo fácil. Mas o que acham é um autêntico inferno(n)</desc>
+    <credits>
+      <director>Eli Roth</director>
+      <actor>Jay Hernandez</actor>
+      <actor>Derek Richardson</actor>
+      <actor>Jan Vlasak</actor>
+      <actor>Rick Hoffman</actor>
+      <actor>Petr Janis</actor>
+      <actor>Eythor Gudjonsson</actor>
+      <actor>Barbara Nedeljakova</actor>
+      <actor>Jana Kaderabhova</actor>
+      <actor>Jennifer Lim</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+</tv>
